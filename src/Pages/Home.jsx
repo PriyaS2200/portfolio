@@ -37,7 +37,7 @@ export const Home = () => {
           boxShadow={"2px 5px 10px wheat"}
           borderRadius={10}
           border={"none"}
-          src="portfolio\accessories\home.png" /> 
+          src="portfolio/public/home.png" /> 
         </Flex>
       </Box>
       <About />
