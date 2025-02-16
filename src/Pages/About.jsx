@@ -26,7 +26,7 @@ export const About = () => {
                     boxShadow={"2px 5px 10px wheat"}
                     borderRadius={10}
                     border={"none"}
-                    src="portfolio\accessories\passportPhoto.png" />
+                    src="/passportPhoto.png" />
                 <Text
                     textAlign={"center"}
                 >   I’m a Computer Science Engineering graduate with a strong foundation
