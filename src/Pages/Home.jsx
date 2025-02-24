@@ -3,6 +3,7 @@ import { About } from "./About"
 import { Skills } from "./Skills"
 import { Project } from "./Project"
 import { Contact } from "./Contact"
+import homeLogo from '/home.png'
 
 export const Home = () => {
   return (
@@ -37,7 +38,7 @@ export const Home = () => {
           boxShadow={"2px 5px 10px wheat"}
           borderRadius={10}
           border={"none"}
-          src="/home.png" /> 
+          src={homeLogo} /> 
         </Flex>
       </Box>
       <About />

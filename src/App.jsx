@@ -9,6 +9,7 @@ import { About } from './Pages/About'
 import { Skills } from './Pages/Skills'
 import { Project } from './Pages/Project'
 import { Contact } from './Pages/Contact'
+import { Footer } from './components/Common/Footer'
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
       <Route path="/project" element={<Project />}/>
       <Route path="/contact" element={<Contact />}/>
      </Routes>
+     <Footer />
     </>
   )
 }
