@@ -16,7 +16,7 @@ export const Navbar = () => {
             <NavLink to="/skills">Skills</NavLink>
             <NavLink to="/project">Project</NavLink>
             <NavLink to="/contact">Contact</NavLink>
-            <Link href="https://drive.google.com/file/d/1auvhrdi6hZcHSolqFo7ePMvZXV66WEoa/view?usp=sharing"
+            <Link href="https://drive.google.com/file/d/1WeyJN454M0D4GXLkx3a5A_ve9_lzdHWL/view?usp=sharing"
             color={"blue.200"} fontWeight={"bold"} fontFamily={"cursive"}
              target="_blank">Resume</Link>
         </Flex>
